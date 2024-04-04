@@ -23,7 +23,7 @@ In this first assignment, we will focus on:
 1. Main tasks:
 
     1. There are two postgres containers defined in the `docker-compose.yml` file services:
-       one containes a normalized database schema, and the other is denormalized.
+       one contains a normalized database schema, and the other is denormalized.
        You will need to update the ports for each database so that they do not conflict with anyone else.
 
        > **NOTE:**
